@@ -1,0 +1,62 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    position: relative;
+    width: 800px;
+    height: 540px;
+    background-color: rgb(220, 220, 220);
+    
+}
+
+.Q1{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 400px;
+    height: 520px;
+    background-color: white;
+
+
+}
+
+.Q2{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 380px;
+    height: 80px;
+    background-color: rgb(220, 220, 220);
+    text-align:center;
+}
+
+.h1{
+    background-color: rgb(220, 220, 220);
+    color: black;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    font-family: arial;
+    font-size: larger;
+    margin: 5px 5px 5px 5px;
+}
+.img{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/300px-Ada_lovelace.jpg);
+    background-repeat:no-repeat;
+    background-position:50% 90%;
+}
+
+p{
+    width: 600pxpx;
+    height:500px;
+    color: black;
+    padding-top: 50px;
+    padding-left: 53%;
+    padding-right: 15px;
+    font-family: arial;
+    text-align: left;
+
+}
